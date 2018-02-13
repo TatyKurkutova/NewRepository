@@ -17,7 +17,7 @@ int main(int argc, char **argv)
 =======
     printf("Hello %s %s!\n", first, last);
 
-    printf("Hello %s %s!\n", first, last);
+
 >>>>>>> d8388547eb4d2daa62ef7282a91a73814059fa87
     return 0;
 }
